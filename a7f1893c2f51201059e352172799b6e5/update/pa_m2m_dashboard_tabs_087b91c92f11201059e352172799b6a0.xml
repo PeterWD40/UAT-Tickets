@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="UAT Overview">6c6b51c92f11201059e352172799b6fe</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 15:52:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>087b91c92f11201059e352172799b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6c6b51c92f11201059e352172799b6fe</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UAT Tickets" source="x_490138_uat_ticke">a7f1893c2f51201059e352172799b6e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_087b91c92f11201059e352172799b6a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 15:52:41</sys_updated_on>
+        <tab display_value="UAT Overview - New Tab">c87b91c92f11201059e352172799b69d</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

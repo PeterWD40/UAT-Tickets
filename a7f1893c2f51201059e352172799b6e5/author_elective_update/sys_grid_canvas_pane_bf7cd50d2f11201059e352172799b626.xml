@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA UAT Overview - New Tab">447b91c92f11201059e352172799b69b</grid_canvas>
+        <height>5</height>
+        <portal_widget display_value="Created 2020-12-23 07:57:18">b37c910d2f11201059e352172799b694</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 15:57:18</sys_created_on>
+        <sys_id>bf7cd50d2f11201059e352172799b626</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>447b91c92f11201059e352172799b69b</sys_name>
+        <sys_package display_value="UAT Tickets" source="x_490138_uat_ticke">a7f1893c2f51201059e352172799b6e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_bf7cd50d2f11201059e352172799b626</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 15:59:15</sys_updated_on>
+        <width>2</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</application>
+        <file_path/>
+        <instance_id>42b840d7dbd9130052e3f70fbf9619c8</instance_id>
+        <instance_name>dev55840</instance_name>
+        <name>sys_grid_canvas_pane_bf7cd50d2f11201059e352172799b626</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA UAT Overview - New Tab">447b91c92f11201059e352172799b69b</grid_canvas><height>5</height><portal_widget display_value="Created 2020-12-23 07:57:18">b37c910d2f11201059e352172799b694</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-23 15:57:18</sys_created_on><sys_id>bf7cd50d2f11201059e352172799b626</sys_id><sys_mod_count>6</sys_mod_count><sys_name>447b91c92f11201059e352172799b69b</sys_name><sys_package display_value="UAT Tickets" source="x_490138_uat_ticke">a7f1893c2f51201059e352172799b6e5</sys_package><sys_policy/><sys_scope display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</sys_scope><sys_update_name>sys_grid_canvas_pane_bf7cd50d2f11201059e352172799b626</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-23 15:59:15</sys_updated_on><width>2</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>1694101007</payload_hash>
+        <record_name>447b91c92f11201059e352172799b69b</record_name>
+        <reverted_from/>
+        <source>3bf1893c2f51201059e352172799b6e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 15:59:15</sys_created_on>
+        <sys_id>50fcdd0d2f11201059e352172799b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17690536f900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 15:59:15</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>d8fcdd0d461120102a17ebd9719a03c7</update_guid>
+        <update_guid_history>d8fcdd0d461120102a17ebd9719a03c7:1694101007,fbec9d0df8112010dce928e7cee0f36a:27360275,5fecdd0dae1120101039dcf6a4193cbf:-1672240627,caecdd0da61120108ab1ab8d94053178:1653145646,c2ac190d2b1120104ff94f83b2367c4d:1612190285,bc9c590da81120105901777d4a7f674d:-1163697310,737cd50db1112010ce806a0f79beb328:1608385614</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 15:59:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>60ae227aa2d84ece8f183c0876399ee4</sys_id>
+        <sys_metadata>bf7cd50d2f11201059e352172799b626</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>447b91c92f11201059e352172799b69b</sys_name>
+        <sys_package display_value="UAT Tickets" source="x_490138_uat_ticke">a7f1893c2f51201059e352172799b6e5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</sys_scope>
+        <sys_scope_delete display_value="">aa448fd8a8844560bebec0a543fc4040</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_bf7cd50d2f11201059e352172799b626</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_bf7cd50d2f11201059e352172799b626">50fcdd0d2f11201059e352172799b6c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 15:59:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

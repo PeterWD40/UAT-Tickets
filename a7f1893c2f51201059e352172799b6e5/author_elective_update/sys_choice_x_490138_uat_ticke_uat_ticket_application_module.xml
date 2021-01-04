@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="application_module" table="x_490138_uat_ticke_uat_ticket" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>application_module</element>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 15:01:48</sys_created_on>
+            <sys_id>72cf85c12f11201059e352172799b6ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>application_module</sys_name>
+            <sys_package display_value="UAT Tickets" source="x_490138_uat_ticke">a7f1893c2f51201059e352172799b6e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</sys_scope>
+            <sys_update_name>sys_choice_x_490138_uat_ticke_uat_ticket_application_module</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 15:01:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change</label>
+            <language>en</language>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 15:01:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6cf85c12f11201059e352172799b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 15:01:48</sys_updated_on>
+            <value>change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident</label>
+            <language>en</language>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 15:01:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>becf85c12f11201059e352172799b6ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 15:01:48</sys_updated_on>
+            <value>incident</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Foundation data</label>
+            <language>en</language>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 15:01:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ecf85c12f11201059e352172799b6f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 15:01:48</sys_updated_on>
+            <value>foundation data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Configuration</label>
+            <language>en</language>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 15:01:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ecf85c12f11201059e352172799b6f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 15:01:48</sys_updated_on>
+            <value>system configuration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>System Notification</label>
+            <language>en</language>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 15:01:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>facf85c12f11201059e352172799b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 15:01:48</sys_updated_on>
+            <value>system notification</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>application_module</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 15:01:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bacf85c12f11201059e352172799b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 15:01:48</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="UAT Ticket" language="en" table="x_490138_uat_ticke_uat_ticket">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>UAT Ticket</label>
+            <language>en</language>
+            <name>x_490138_uat_ticke_uat_ticket</name>
+            <plural>UAT Tickets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-22 19:29:31</sys_created_on>
+            <sys_id>b673c1bc2f51201059e352172799b637</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>UAT Ticket</sys_name>
+            <sys_package display_value="UAT Tickets" source="x_490138_uat_ticke">a7f1893c2f51201059e352172799b6e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</sys_scope>
+            <sys_update_name>sys_documentation_x_490138_uat_ticke_uat_ticket__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-22 19:29:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

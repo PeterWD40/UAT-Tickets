@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA UAT Overview - New Tab">cc7b91c92f11201059e352172799b699</legacy_page>
+        <name>PA UAT Overview - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 15:52:41</sys_created_on>
+        <sys_id>447b91c92f11201059e352172799b69b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA UAT Overview - New Tab</sys_name>
+        <sys_package display_value="UAT Tickets" source="x_490138_uat_ticke">a7f1893c2f51201059e352172799b6e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UAT Tickets">a7f1893c2f51201059e352172799b6e5</sys_scope>
+        <sys_update_name>sys_grid_canvas_447b91c92f11201059e352172799b69b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 15:52:41</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

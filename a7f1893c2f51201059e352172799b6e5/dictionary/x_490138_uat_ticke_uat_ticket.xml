@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="UAT Ticket" max_length="40" name="x_490138_uat_ticke_uat_ticket" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Action/Resolution" max_length="4000" name="action_resolution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="change" label="Application Module" max_length="40" name="application_module" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Change" sequence="0" value="change"/>
+                <element inactive_on_update="false" label="Incident" sequence="1" value="incident"/>
+                <element inactive_on_update="false" label="Foundation data" sequence="2" value="foundation data"/>
+                <element inactive_on_update="false" label="System Configuration" sequence="3" value="system configuration"/>
+                <element inactive_on_update="false" label="System Notification" sequence="4" value="system notification"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+            </choice>
+        </element>
+        <element label="BLocked" max_length="40" name="blocked" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Go live issue?" mandatory="true" max_length="40" name="go_live_issue" type="string"/>
+        <element label="LOE" max_length="15" name="loe" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="On Hold Reason" max_length="40" name="on_hold_reason" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reference ticket #" max_length="40" name="reference_ticket" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Target Resolution Date/Time" max_length="40" name="target_resolution_date_time" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Tester" max_length="32" name="tester" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Time of Resolution" max_length="40" name="time_of_resolution" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Enchancement" sequence="0" value="enchancement"/>
+                <element inactive_on_update="false" label="Training" sequence="1" value="training"/>
+                <element inactive_on_update="false" label="Defect" sequence="2" value="defect"/>
+                <element inactive_on_update="false" label="Quick Fix" sequence="3" value="quick fix"/>
+                <element inactive_on_update="false" label="Data Issue" sequence="4" value="data issue"/>
+                <element inactive_on_update="false" label="Product Issue" sequence="5" value="product issue"/>
+            </choice>
+        </element>
+    </element>
+</database>
